@@ -1,2 +1,2 @@
 # screeps-ai
-My code for the Screeps game
+My code for the Screeps game.
